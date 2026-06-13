@@ -2,7 +2,7 @@
 
 Unlock hidden diagnostic details in your medical images. RetinaSRGAN uses adversarial deep learning to magnify low-resolution OCT scans, MRI studies, and radiographs into publication-quality clinical images. Say goodbye to pixelated diagnostics—achieve crystal-clear resolution while preserving every clinically relevant detail.
 
-![Medical Image Enhancement Example](enhancement-example.png)
+![MRI SRGAN Enhancement Example](MRI%20~%20SR-GAN%202.png)
 
 ---
 
