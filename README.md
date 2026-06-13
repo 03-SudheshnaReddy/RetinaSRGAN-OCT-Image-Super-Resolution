@@ -266,14 +266,6 @@ RetinaSRGAN is an open-source community project. We welcome contributions in the
 
 ---
 
-## 🔗 Related Work
-
-**Original Inspiration**: [SR-GANs for Medical Image](https://github.com/mmasdar/SR-GANs-for-Medical-Image)
-
-This project builds upon foundational SR-GAN research and adapts it specifically for ophthalmologic (OCT) and neuroimaging applications.
-
----
-
 ## 💡 Tips for Best Results
 
 ✨ **Data Quality**: Ensure your low-resolution images are clean and representative  
@@ -282,15 +274,6 @@ This project builds upon foundational SR-GAN research and adapts it specifically
 ✨ **Model Selection**: Use 64x64 model for real-time inference, standard model for offline processing  
 ✨ **Validation**: Always compare against ground truth to assess clinical utility
 
----
-
-## 📞 Support & Questions
-
-- 📧 Open an issue for bugs or feature requests
-- 💬 Check closed issues for common solutions
-- 🔍 Review the Jupyter notebooks for detailed examples
-
----
 
 **Made with ❤️ by Sudheshna Reddy**
 
